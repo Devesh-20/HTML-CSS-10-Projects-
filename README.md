@@ -1,9 +1,16 @@
-# HTML-CSS-10-Projects-
+# HTML-CSS-10-Projects
 
 Screenshot:-
+<div style="display=flex">
+  <div>
+    ![APJ abdul kalam](https://github.com/Devesh-20/HTML-CSS-10-Projects-/assets/103423370/c42a1e0e-1a71-4350-83e2-ebf6eafbe13b)
+  </div>
+  <div>
+    ![Carousel](https://github.com/Devesh-20/HTML-CSS-10-Projects-/assets/103423370/71f0a9a8-f9f4-40db-952d-3259d43f8883)
+  </div>
+</div>
 
-![APJ abdul kalam](https://github.com/Devesh-20/HTML-CSS-10-Projects-/assets/103423370/c42a1e0e-1a71-4350-83e2-ebf6eafbe13b)
-![Carousel](https://github.com/Devesh-20/HTML-CSS-10-Projects-/assets/103423370/71f0a9a8-f9f4-40db-952d-3259d43f8883)
+
 
 
 # Shortest path in Undirected Graph having unit distance
