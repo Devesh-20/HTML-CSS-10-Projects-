@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Bigbox{
+    border: 5px solid black;
+    min-height: 100vh;
+    padding: 80px;
+    background-color: #E5E5FD;
+    
+    
+    
+}
+.topsection{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.topsection img{
+    border-radius: 50%;
+}
+
+.show{
+    position: relative;
+    top: 180px;
+}
+.show h3{
+    padding-left: 180px;
+}
+
+.content{
+    width: 800px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.content1{
+    width: 800px;
+}
+
+.content1 h3{
+    margin-bottom: 20px;
+}
+
+footer{
+    margin: 50px;
+    width: 700px;
+}
+
+footer p{
+    text-align: end;
+}
